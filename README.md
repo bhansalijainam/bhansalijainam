@@ -1,21 +1,22 @@
-### Hi there 👋
+### Hi there 👋 I'm Jainam
 
 <!--
 **bhansalijainam/bhansalijainam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-# 💫 About Me:
+## 💫 About Me:
 
-- 🔭 <br>I'm pursuing a Master's in Artificial Intelligence from Katz School of Science and Health.<br>
-- 🌱 <br>Im looking to learn more about AI/ML and working in this field.<br>
-- 👯 <br>Im open to working on a project that involves data science, AI/ML.<br>
-- 💬 <br> Ask me about data science, AI/ML<br>
-- ⚡ Fun fact: I love traveling, exploring new places and meeting new people
-
-
-
+- 🔭 I'm pursuing a Master's in Artificial Intelligence from Katz School of Science and Health.
+- 🌱 I'm looking to learn more about AI/ML and working in this field.
+- 👯 I'm open to working on a project that involves data science, AI/ML.
+- 💬  Ask me about data science, AI/ML
+- ⚡ Fun fact: I love traveling, exploring new places, and meeting new people.
 
 
-## 🌐 Socials:
+
+
+
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jainam-bhansali-467a0b144/) 
 
 # 💻 Tech Stack:
@@ -28,4 +29,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
--->
+
